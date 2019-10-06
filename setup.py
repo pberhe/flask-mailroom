@@ -1,5 +1,4 @@
 import random
-
 from model import db, Donor, Donation 
 
 db.connect()
